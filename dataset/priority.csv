@@ -1,0 +1,21 @@
+text,priority
+Where is my order?,Low
+Track my package,Low
+Delivery status,Low
+Need shipment details,Low
+Order not received yet,Low
+Refund my payment,Medium
+Return my product,Medium
+Money back request,Medium
+Need refund,Medium
+Refund status,Medium
+Payment failed,High
+Money deducted,High
+Charged twice,High
+Transaction failed,High
+Unable to complete payment,High
+My account is blocked after payment,Critical
+Payment deducted multiple times urgently,Critical
+Fraudulent transaction detected,Critical
+My account was hacked,Critical
+Unauthorized payment,Critical

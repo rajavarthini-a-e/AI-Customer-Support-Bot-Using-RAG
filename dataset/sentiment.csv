@@ -1,0 +1,31 @@
+text,sentiment
+I am very happy,Positive
+Thank you so much,Positive
+Excellent support,Positive
+Awesome service,Positive
+Great experience,Positive
+I appreciate your help,Positive
+This is fantastic,Positive
+Very satisfied,Positive
+Loved the service,Positive
+Everything works perfectly,Positive
+My payment failed,Negative
+Worst experience,Negative
+I am disappointed,Negative
+Very bad support,Negative
+Nothing is working,Negative
+My order is delayed,Negative
+Refund not received,Negative
+I hate this service,Negative
+Terrible experience,Negative
+My issue is unresolved,Negative
+I have a question,Neutral
+Need some help,Neutral
+Can you assist me?,Neutral
+Where is my order?,Neutral
+Track my package,Neutral
+I need information,Neutral
+Can you explain?,Neutral
+Please help me,Neutral
+I want to know the status,Neutral
+Need assistance,Neutral

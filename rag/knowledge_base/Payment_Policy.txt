@@ -1,0 +1,5 @@
+Payment Policy
+
+We accept Credit Card, Debit Card, UPI and Net Banking.
+If money is deducted but the order is not confirmed,
+the refund is automatically initiated within 3 business days.

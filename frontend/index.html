@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AI Customer Support Bot</title>
+
+    <style>
+
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+            font-family:Arial, Helvetica, sans-serif;
+        }
+
+        body{
+            background:#f4f6f9;
+            display:flex;
+            justify-content:center;
+            align-items:center;
+            height:100vh;
+        }
+
+        .container{
+            width:550px;
+            background:white;
+            border-radius:15px;
+            box-shadow:0 5px 20px rgba(0,0,0,0.2);
+            padding:20px;
+        }
+
+        h1{
+            text-align:center;
+            color:#333;
+            margin-bottom:20px;
+        }
+
+        #chat-box{
+            height:420px;
+            overflow-y:auto;
+            border:1px solid #ddd;
+            border-radius:10px;
+            background:#fafafa;
+            padding:15px;
+            margin-bottom:15px;
+        }
+
+        .user{
+            background:#007bff;
+            color:white;
+            padding:10px;
+            border-radius:10px;
+            width:fit-content;
+            max-width:80%;
+            margin-left:auto;
+            margin-bottom:10px;
+            white-space:pre-wrap;
+        }
+
+        .bot{
+            background:#e9ecef;
+            color:black;
+            padding:10px;
+            border-radius:10px;
+            width:fit-content;
+            max-width:80%;
+            margin-bottom:10px;
+            white-space:pre-wrap;
+        }
+
+        .input-area{
+            display:flex;
+            gap:10px;
+        }
+
+        #user-input{
+            flex:1;
+            padding:12px;
+            border-radius:8px;
+            border:1px solid #ccc;
+            font-size:16px;
+        }
+
+        #send-btn{
+            background:#007bff;
+            color:white;
+            border:none;
+            border-radius:8px;
+            padding:12px 20px;
+            cursor:pointer;
+            font-size:16px;
+        }
+
+        #send-btn:hover{
+            background:#0056b3;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>AI Customer Support Bot</h1>
+
+    <div id="chat-box"></div>
+
+    <div class="input-area">
+
+    <input
+        type="text"
+        id="user-input"
+        placeholder="Ask your question..."
+    >
+
+    <button id="mic-btn">
+        🎤
+    </button>
+
+    <button id="send-btn">
+        Send
+    </button>
+
+</div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>

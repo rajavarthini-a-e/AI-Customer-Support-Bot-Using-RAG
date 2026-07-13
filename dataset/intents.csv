@@ -1,0 +1,501 @@
+text,intent
+Money back,Refund
+Refund request,Refund
+Double payment,Payment Issue
+Please cancel,Cancellation
+Where is my shipment?,Order Tracking
+Payment failed,Payment Issue
+Money back,Refund
+Has my order been shipped?,Order Tracking
+Where is my shipment?,Order Tracking
+UPI payment failed,Payment Issue
+Product is damaged,Refund
+UPI payment failed,Payment Issue
+Money deducted,Payment Issue
+Has my order been shipped?,Order Tracking
+I don't need this anymore,Cancellation
+Delivery status,Order Tracking
+Cancel before shipping,Cancellation
+Payment failed,Payment Issue
+Has my order been shipped?,Order Tracking
+When will my package arrive?,Order Tracking
+Payment unsuccessful,Payment Issue
+Cancel immediately,Cancellation
+When will my package arrive?,Order Tracking
+Track my package,Order Tracking
+Delivery status,Order Tracking
+Return and refund,Refund
+Issue a refund,Refund
+Withdraw my order,Cancellation
+Money back,Refund
+Transaction failed,Payment Issue
+Stop my order,Cancellation
+Delivery status,Order Tracking
+Delivery status,Order Tracking
+Refund for my order,Refund
+Charged twice,Payment Issue
+I need reimbursement,Refund
+Return this product,Refund
+Money deducted,Payment Issue
+Refund my payment,Refund
+Cancel before shipping,Cancellation
+Where is my order?,Order Tracking
+Refund for my order,Refund
+Refund my payment,Refund
+Refund my payment,Refund
+Refund for my order,Refund
+I need reimbursement,Refund
+Track my package,Order Tracking
+Please cancel,Cancellation
+Cancel purchase,Cancellation
+Transaction failed,Payment Issue
+Has my order been shipped?,Order Tracking
+Card payment failed,Payment Issue
+Withdraw my order,Cancellation
+Money deducted,Payment Issue
+Return and refund,Refund
+Please cancel,Cancellation
+Where is my shipment?,Order Tracking
+Double payment,Payment Issue
+Track my delivery,Order Tracking
+Transaction failed,Payment Issue
+Card payment failed,Payment Issue
+Payment pending,Payment Issue
+Order cancellation,Cancellation
+Cancel my order,Cancellation
+Cancel immediately,Cancellation
+Cancel immediately,Cancellation
+I want to cancel,Cancellation
+Card payment failed,Payment Issue
+Charged twice,Payment Issue
+Cancel immediately,Cancellation
+Where is my shipment?,Order Tracking
+Refund request,Refund
+Issue a refund,Refund
+Payment failed,Payment Issue
+I want a refund,Refund
+Where is my order?,Order Tracking
+Delivery status,Order Tracking
+Product is damaged,Refund
+Cancel before shipping,Cancellation
+Refund for my order,Refund
+UPI payment failed,Payment Issue
+Payment unsuccessful,Payment Issue
+Refund my payment,Refund
+Delivery status,Order Tracking
+Refund for my order,Refund
+Charged twice,Payment Issue
+Delivery status,Order Tracking
+Payment unsuccessful,Payment Issue
+Has my order been shipped?,Order Tracking
+Card payment failed,Payment Issue
+Money back,Refund
+Where is my order?,Order Tracking
+Card payment failed,Payment Issue
+Has my order been shipped?,Order Tracking
+Stop my order,Cancellation
+Stop my order,Cancellation
+Charged twice,Payment Issue
+Order cancellation,Cancellation
+Double payment,Payment Issue
+Order cancellation,Cancellation
+Return this product,Refund
+I need reimbursement,Refund
+Stop my order,Cancellation
+UPI payment failed,Payment Issue
+Where is my shipment?,Order Tracking
+Order not delivered,Order Tracking
+Refund my payment,Refund
+Return and refund,Refund
+Order cancellation,Cancellation
+My parcel is delayed,Order Tracking
+Return this product,Refund
+Cancel before shipping,Cancellation
+I don't need this anymore,Cancellation
+Refund my payment,Refund
+My parcel is delayed,Order Tracking
+Money back,Refund
+Cancel purchase,Cancellation
+Refund for my order,Refund
+Money back,Refund
+Double payment,Payment Issue
+Locate my package,Order Tracking
+Where is my order?,Order Tracking
+Has my order been shipped?,Order Tracking
+Money back,Refund
+Please cancel,Cancellation
+Stop my order,Cancellation
+Refund request,Refund
+I don't need this anymore,Cancellation
+Unable to pay,Payment Issue
+Return and refund,Refund
+Cancel my order,Cancellation
+I want a refund,Refund
+Money deducted,Payment Issue
+Order cancellation,Cancellation
+When will my package arrive?,Order Tracking
+Refund for my order,Refund
+My parcel is delayed,Order Tracking
+My parcel is delayed,Order Tracking
+Product is damaged,Refund
+Return this product,Refund
+UPI payment failed,Payment Issue
+Locate my package,Order Tracking
+Cancel immediately,Cancellation
+Card payment failed,Payment Issue
+Money back,Refund
+UPI payment failed,Payment Issue
+Cancel before shipping,Cancellation
+Unable to pay,Payment Issue
+Money back,Refund
+Card payment failed,Payment Issue
+Money back,Refund
+Locate my package,Order Tracking
+Issue a refund,Refund
+Where is my shipment?,Order Tracking
+Card payment failed,Payment Issue
+I want a refund,Refund
+Stop my order,Cancellation
+UPI payment failed,Payment Issue
+Return and refund,Refund
+Where is my shipment?,Order Tracking
+Payment pending,Payment Issue
+Double payment,Payment Issue
+Track my package,Order Tracking
+Issue a refund,Refund
+Issue a refund,Refund
+I want to cancel,Cancellation
+Unable to pay,Payment Issue
+I want to cancel,Cancellation
+Return this product,Refund
+When will my package arrive?,Order Tracking
+I want a refund,Refund
+Return this product,Refund
+I need reimbursement,Refund
+Payment pending,Payment Issue
+Double payment,Payment Issue
+Cancel purchase,Cancellation
+Return and refund,Refund
+Return this product,Refund
+Track my package,Order Tracking
+Refund request,Refund
+Double payment,Payment Issue
+Order cancellation,Cancellation
+Where is my order?,Order Tracking
+I don't need this anymore,Cancellation
+Unable to pay,Payment Issue
+Product is damaged,Refund
+Refund request,Refund
+Order cancellation,Cancellation
+UPI payment failed,Payment Issue
+Order not delivered,Order Tracking
+Refund my payment,Refund
+I don't need this anymore,Cancellation
+My parcel is delayed,Order Tracking
+Delivery status,Order Tracking
+I want a refund,Refund
+Has my order been shipped?,Order Tracking
+I want a refund,Refund
+Where is my order?,Order Tracking
+Where is my shipment?,Order Tracking
+Withdraw my order,Cancellation
+Cancel before shipping,Cancellation
+Stop my order,Cancellation
+Refund for my order,Refund
+Money back,Refund
+I want to cancel,Cancellation
+Cancel immediately,Cancellation
+Where is my order?,Order Tracking
+Payment unsuccessful,Payment Issue
+Unable to pay,Payment Issue
+Double payment,Payment Issue
+Payment failed,Payment Issue
+Order cancellation,Cancellation
+Charged twice,Payment Issue
+Withdraw my order,Cancellation
+Order cancellation,Cancellation
+Card payment failed,Payment Issue
+Cancel purchase,Cancellation
+Refund request,Refund
+Refund my payment,Refund
+Payment pending,Payment Issue
+Money deducted,Payment Issue
+Payment unsuccessful,Payment Issue
+Delivery status,Order Tracking
+Order not delivered,Order Tracking
+I don't need this anymore,Cancellation
+Track my delivery,Order Tracking
+Has my order been shipped?,Order Tracking
+Cancel my order,Cancellation
+Unable to pay,Payment Issue
+I don't need this anymore,Cancellation
+I want to cancel,Cancellation
+Issue a refund,Refund
+Track my delivery,Order Tracking
+Charged twice,Payment Issue
+Order not delivered,Order Tracking
+Unable to pay,Payment Issue
+Payment pending,Payment Issue
+Charged twice,Payment Issue
+Charged twice,Payment Issue
+I need reimbursement,Refund
+Issue a refund,Refund
+Has my order been shipped?,Order Tracking
+I want a refund,Refund
+Payment unsuccessful,Payment Issue
+Delivery status,Order Tracking
+Stop my order,Cancellation
+Return and refund,Refund
+Payment pending,Payment Issue
+UPI payment failed,Payment Issue
+Withdraw my order,Cancellation
+Refund request,Refund
+Order not delivered,Order Tracking
+Payment unsuccessful,Payment Issue
+UPI payment failed,Payment Issue
+Return and refund,Refund
+Where is my shipment?,Order Tracking
+Payment failed,Payment Issue
+Track my delivery,Order Tracking
+Stop my order,Cancellation
+Please cancel,Cancellation
+Stop my order,Cancellation
+I don't need this anymore,Cancellation
+Where is my shipment?,Order Tracking
+Where is my order?,Order Tracking
+Cancel purchase,Cancellation
+Stop my order,Cancellation
+Payment unsuccessful,Payment Issue
+I want a refund,Refund
+Cancel before shipping,Cancellation
+Money deducted,Payment Issue
+Stop my order,Cancellation
+Card payment failed,Payment Issue
+Unable to pay,Payment Issue
+Return and refund,Refund
+Payment failed,Payment Issue
+Cancel immediately,Cancellation
+UPI payment failed,Payment Issue
+I want to cancel,Cancellation
+When will my package arrive?,Order Tracking
+Refund request,Refund
+UPI payment failed,Payment Issue
+Cancel before shipping,Cancellation
+Money deducted,Payment Issue
+Cancel before shipping,Cancellation
+Refund for my order,Refund
+Delivery status,Order Tracking
+I need reimbursement,Refund
+Locate my package,Order Tracking
+My parcel is delayed,Order Tracking
+Cancel my order,Cancellation
+Stop my order,Cancellation
+Transaction failed,Payment Issue
+Has my order been shipped?,Order Tracking
+Has my order been shipped?,Order Tracking
+Track my package,Order Tracking
+Cancel immediately,Cancellation
+Order cancellation,Cancellation
+Has my order been shipped?,Order Tracking
+Withdraw my order,Cancellation
+I want a refund,Refund
+Payment unsuccessful,Payment Issue
+Issue a refund,Refund
+Stop my order,Cancellation
+Track my package,Order Tracking
+When will my package arrive?,Order Tracking
+Refund my payment,Refund
+Payment pending,Payment Issue
+My parcel is delayed,Order Tracking
+Withdraw my order,Cancellation
+Order not delivered,Order Tracking
+Return this product,Refund
+Has my order been shipped?,Order Tracking
+Payment unsuccessful,Payment Issue
+Money back,Refund
+Withdraw my order,Cancellation
+I want a refund,Refund
+I don't need this anymore,Cancellation
+Cancel before shipping,Cancellation
+Charged twice,Payment Issue
+Refund for my order,Refund
+I want a refund,Refund
+When will my package arrive?,Order Tracking
+Where is my shipment?,Order Tracking
+Has my order been shipped?,Order Tracking
+Refund my payment,Refund
+Cancel before shipping,Cancellation
+Return and refund,Refund
+Payment unsuccessful,Payment Issue
+Payment pending,Payment Issue
+Cancel before shipping,Cancellation
+Cancel immediately,Cancellation
+Track my delivery,Order Tracking
+Withdraw my order,Cancellation
+Track my package,Order Tracking
+Card payment failed,Payment Issue
+Payment failed,Payment Issue
+Card payment failed,Payment Issue
+Card payment failed,Payment Issue
+Money back,Refund
+Cancel immediately,Cancellation
+Withdraw my order,Cancellation
+Has my order been shipped?,Order Tracking
+Order not delivered,Order Tracking
+Transaction failed,Payment Issue
+UPI payment failed,Payment Issue
+Issue a refund,Refund
+Unable to pay,Payment Issue
+Return this product,Refund
+Charged twice,Payment Issue
+Payment unsuccessful,Payment Issue
+Payment pending,Payment Issue
+Track my package,Order Tracking
+When will my package arrive?,Order Tracking
+My parcel is delayed,Order Tracking
+Locate my package,Order Tracking
+Locate my package,Order Tracking
+Payment pending,Payment Issue
+Money back,Refund
+Refund request,Refund
+Please cancel,Cancellation
+Unable to pay,Payment Issue
+When will my package arrive?,Order Tracking
+Order cancellation,Cancellation
+Refund my payment,Refund
+Withdraw my order,Cancellation
+Track my package,Order Tracking
+I want to cancel,Cancellation
+I don't need this anymore,Cancellation
+Track my package,Order Tracking
+Card payment failed,Payment Issue
+Cancel my order,Cancellation
+Delivery status,Order Tracking
+Payment unsuccessful,Payment Issue
+Track my package,Order Tracking
+Track my delivery,Order Tracking
+Card payment failed,Payment Issue
+Issue a refund,Refund
+Unable to pay,Payment Issue
+Payment pending,Payment Issue
+Withdraw my order,Cancellation
+Track my package,Order Tracking
+Track my delivery,Order Tracking
+Has my order been shipped?,Order Tracking
+Money deducted,Payment Issue
+Cancel purchase,Cancellation
+My parcel is delayed,Order Tracking
+Locate my package,Order Tracking
+Double payment,Payment Issue
+When will my package arrive?,Order Tracking
+Order not delivered,Order Tracking
+Cancel my order,Cancellation
+Track my package,Order Tracking
+I want to cancel,Cancellation
+Where is my order?,Order Tracking
+I don't need this anymore,Cancellation
+Charged twice,Payment Issue
+Transaction failed,Payment Issue
+Return this product,Refund
+Where is my order?,Order Tracking
+I want to cancel,Cancellation
+Where is my shipment?,Order Tracking
+Please cancel,Cancellation
+Product is damaged,Refund
+Stop my order,Cancellation
+Track my package,Order Tracking
+Transaction failed,Payment Issue
+Stop my order,Cancellation
+Money deducted,Payment Issue
+Refund request,Refund
+Refund for my order,Refund
+Refund for my order,Refund
+Stop my order,Cancellation
+Refund request,Refund
+Return this product,Refund
+Unable to pay,Payment Issue
+Refund my payment,Refund
+Stop my order,Cancellation
+Issue a refund,Refund
+Refund my payment,Refund
+Issue a refund,Refund
+Refund for my order,Refund
+I need reimbursement,Refund
+Transaction failed,Payment Issue
+Return this product,Refund
+Please cancel,Cancellation
+Track my package,Order Tracking
+Return this product,Refund
+Money deducted,Payment Issue
+Please cancel,Cancellation
+Cancel purchase,Cancellation
+Card payment failed,Payment Issue
+Cancel purchase,Cancellation
+Order cancellation,Cancellation
+Refund my payment,Refund
+Has my order been shipped?,Order Tracking
+Refund request,Refund
+Track my delivery,Order Tracking
+I need reimbursement,Refund
+Issue a refund,Refund
+Cancel purchase,Cancellation
+Track my delivery,Order Tracking
+Cancel my order,Cancellation
+Refund for my order,Refund
+Payment failed,Payment Issue
+Track my package,Order Tracking
+Has my order been shipped?,Order Tracking
+Charged twice,Payment Issue
+Payment failed,Payment Issue
+Track my package,Order Tracking
+Cancel immediately,Cancellation
+Stop my order,Cancellation
+Double payment,Payment Issue
+Order cancellation,Cancellation
+Double payment,Payment Issue
+Has my order been shipped?,Order Tracking
+Double payment,Payment Issue
+Issue a refund,Refund
+Return this product,Refund
+When will my package arrive?,Order Tracking
+Cancel purchase,Cancellation
+Return and refund,Refund
+Money deducted,Payment Issue
+When will my package arrive?,Order Tracking
+My parcel is delayed,Order Tracking
+I want to cancel,Cancellation
+My parcel is delayed,Order Tracking
+Refund request,Refund
+Product is damaged,Refund
+Cancel immediately,Cancellation
+Has my order been shipped?,Order Tracking
+Has my order been shipped?,Order Tracking
+Please cancel,Cancellation
+Withdraw my order,Cancellation
+Refund my payment,Refund
+Money back,Refund
+Refund my payment,Refund
+I don't need this anymore,Cancellation
+Return this product,Refund
+Where is my shipment?,Order Tracking
+I want a refund,Refund
+Unable to pay,Payment Issue
+I don't need this anymore,Cancellation
+Cancel purchase,Cancellation
+I want to cancel,Cancellation
+Order not delivered,Order Tracking
+Please cancel,Cancellation
+UPI payment failed,Payment Issue
+Money deducted,Payment Issue
+Transaction failed,Payment Issue
+Card payment failed,Payment Issue
+Money back,Refund
+Cancel before shipping,Cancellation
+When will my package arrive?,Order Tracking
+Where is my shipment?,Order Tracking
+Cancel immediately,Cancellation
+Unable to pay,Payment Issue
+Payment pending,Payment Issue
+Where is my order?,Order Tracking
+Cancel immediately,Cancellation
+Payment pending,Payment Issue
