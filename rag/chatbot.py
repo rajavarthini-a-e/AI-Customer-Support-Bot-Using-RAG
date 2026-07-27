@@ -1,5 +1,11 @@
 import sys
 import os
+
+# Force HuggingFace to use the locally cached embedding model
+# instead of trying to reach the internet every time (fixes
+# intermittent connection/startup crashes)
+os.environ["HF_HUB_OFFLINE"] = "1"
+
 import time
 
 # Allow Python to access project root
